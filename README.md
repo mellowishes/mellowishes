@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Felipa&size=18&pause=1000&color=D98B8D&center=true&vCenter=true&width=400&lines=If+I+could+go+back+to+a+time+before+now;Before+I+ever+fell+down;Go+back+to+a+time+when+I+was+just+a+girl;When+I+had+the+whole+world;Gently+wrapped+around+me." />
+  <img src="https://readme-typing-svg.demolab.com?font=Felipa&size=14&pause=1000&color=D98B8D&center=true&vCenter=true&width=400&lines=If+I+could+go+back+to+a+time+before+now;Before+I+ever+fell+down;Go+back+to+a+time+when+I+was+just+a+girl;When+I+had+the+whole+world;Gently+wrapped+around+me." />
 </p>
 
 <p align="center">
