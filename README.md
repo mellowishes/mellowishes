@@ -12,5 +12,5 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/0gzcxh.png" width="200">
-</p></p>
+  <img src="https://postimg.cc/Tpx30z6j" width="400">
+</p>
