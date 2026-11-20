@@ -12,5 +12,5 @@
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/zXbHzN2Q/image-cef0-gradientmap-pro.png" width="400">
+  <img src="https://i.postimg.cc/zXbHzN2Q/image-cef0-gradientmap-pro.png" width="250">
 </p>
